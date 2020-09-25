@@ -102,7 +102,7 @@ function testUpdate(condition, doc) {
     })
 };
 
-testUpdate(
-    { name : "마이콜"}, // 조건 name = "마이콜"
-    { job : "무직"}   // 변경 문서의 내용
-)
+// // testUpdate(
+//     { name : "마이콜"}, // 조건 name = "마이콜"
+//     { job : "무직"}   // 변경 문서의 내용
+// )
